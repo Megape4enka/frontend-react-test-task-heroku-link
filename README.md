@@ -1,3 +1,3 @@
 npm i
 
-start front comand - yarn start
+start frontend comand - yarn start
