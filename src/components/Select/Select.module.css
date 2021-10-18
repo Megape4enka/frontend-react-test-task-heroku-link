@@ -1,0 +1,20 @@
+.container {
+    margin-right: 10px;
+}
+
+b {
+    margin-right: 15px;
+}
+
+.select {
+    border: none;
+    padding: 15px 20px;
+    outline: none;
+    width: 250px;
+}
+
+.option {
+    border: none;
+    outline: none;
+    padding: 15px 20px;
+}
